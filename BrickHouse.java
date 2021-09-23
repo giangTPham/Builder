@@ -1,0 +1,2 @@
+class BrickHouse extends House { 
+}
